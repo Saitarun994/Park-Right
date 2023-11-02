@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="cover.png">
+<img src="media/cover.png">
 </h1> 
 
 # Parking Space Identifier & segmenter
@@ -17,10 +17,10 @@ Automated computer vision system to identify legal and unmarked parking spaces o
 
 ## 💻 Sample Output
 ### Parking space identification:
-<img src="media/data_labelling.gif" width=45%>
+<img src="media/output.png" width=45%>
 
 ### Parking space segmentation to accomodate bikes:
-<img src="webcam.gif" width=45% >
+<img src="media/segmentation.png" width=45%>
 
 
 ## 🛠 Skills
