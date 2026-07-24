@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="media/cover.png">
+<img src="media/banner.png">
 </h1> 
 
 # Parking Space Identifier & segmenter
