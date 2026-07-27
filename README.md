@@ -153,14 +153,6 @@ The architecture should show four high-level layers:
 
 ---
 
-## REAL-TIME DEMO
-
-<p align="center">
-  <img src="media/output.gif" width="100%" alt="Park Right real-time parking-space detection demo">
-</p>
-
----
-
 ## CUSTOM SEGMENTATION DATASET
 
 I created and labeled a custom dataset containing more than **1,000 road images** across approximately **17 urban context classes**.
