@@ -239,10 +239,9 @@ def estimate_capacity(
 ## IOT DEVICE CONCEPT
 
 <p align="center">
-  <img src="media/iot-device.png" width="100%" alt="Kriti Labs smart-parking IoT device concept">
+  <img src="media/iot_device.png" width="100%" alt="Kriti Labs smart-parking IoT device concept">
 </p>
 
-> Product-render placeholder: `media/iot-device.png`
 
 The production concept places the computer-vision pipeline inside a connected roadside or vehicle-mounted IoT device capable of processing live video and reporting parking availability to the broader traffic-management system.
 
