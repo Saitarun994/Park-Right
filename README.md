@@ -120,7 +120,6 @@ The system does not treat every empty roadside region as valid parking. It first
   <img src="media/architecture.png" width="100%" alt="Park Right real-time parking intelligence architecture">
 </p>
 
-> Architecture image placeholder: `media/architecture.png`
 
 The architecture should show four high-level layers:
 
